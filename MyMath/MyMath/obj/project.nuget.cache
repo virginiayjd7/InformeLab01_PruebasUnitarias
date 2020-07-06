@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxTSk27z9uTSplckKWm/0RdhLclmAePmtzucop2rryylWNr+nqqbyNGz3vp9jv4vjDvIWf5ZKUINlLF4P3v8FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Virginia Aquino\\Documents\\GitHub\\InformeLab01_PruebasUnitarias\\MyMath\\MyMath\\MyMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Virginia Aquino\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Virginia Aquino\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
