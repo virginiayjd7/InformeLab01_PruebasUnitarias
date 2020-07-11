@@ -1,0 +1,8 @@
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net48\PrimeService.dll
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net48\PrimeService.pdb
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net48\PrimeService.csprojAssemblyReference.cache
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net48\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net48\PrimeService.AssemblyInfo.cs
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net48\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net48\PrimeService.dll
+C:\Users\Virginia Aquino\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net48\PrimeService.pdb

@@ -1,7 +1,7 @@
 using System;
-using Prime.Services;
 using Xunit;
-namespace Prime.UnitTests.Services
+
+namespace PrimeService.Tests
 {
     public class PrimeService_IsPrimeShould
     {
@@ -10,21 +10,17 @@ namespace Prime.UnitTests.Services
         {
             _primeService = new PrimeService();
         }
-        [Fact]
-        public void IsPrime_InputIs1_ReturnFalse()
-        {
-            var result = _primeService.IsPrime(1);
-            Assert.False(result, "1 should not be prime");
-        }
-        public bool IsPrime(int candidate)
-        {
-            if (candidate == 1)
-            {
-                return false;
-            }
-            throw new NotImplementedException("Not fully implemented.");
-        }
 
+        [Theory]
+        [InlineData(-1)]
+        [InlineData(0)]
+        [InlineData(1)]
+        public void IsPrime_ValuesLessThan2_ReturnFalse(int value)
+        {
+            var result = _primeService.IsPrime(value);
+            Assert.False(result, $"{value} should not be prime");
+        }
     }
+
 }
 
