@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\Virginia Aquino\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Virginia Aquino\\Documents\\GitHub\\InformeLab01_PruebasUnitarias\\MyMath\\MyMath\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Virginia Aquino\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

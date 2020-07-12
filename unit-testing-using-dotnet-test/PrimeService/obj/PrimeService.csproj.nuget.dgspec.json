@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Virginia Aquino\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {}
+    "C:\\Users\\Virginia Aquino\\Documents\\GitHub\\InformeLab01_PruebasUnitarias\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Virginia Aquino\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
+    "C:\\Users\\Virginia Aquino\\Documents\\GitHub\\InformeLab01_PruebasUnitarias\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Virginia Aquino\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "C:\\Users\\Virginia Aquino\\Documents\\GitHub\\InformeLab01_PruebasUnitarias\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "C:\\Users\\Virginia Aquino\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectPath": "C:\\Users\\Virginia Aquino\\Documents\\GitHub\\InformeLab01_PruebasUnitarias\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\Virginia Aquino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Virginia Aquino\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
+        "outputPath": "C:\\Users\\Virginia Aquino\\Documents\\GitHub\\InformeLab01_PruebasUnitarias\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,7 +40,7 @@
       },
       "frameworks": {
         "net48": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

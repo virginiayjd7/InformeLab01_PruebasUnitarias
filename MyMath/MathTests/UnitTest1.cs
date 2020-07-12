@@ -21,6 +21,7 @@ namespace MathTests
             }
             Assert.Fail();
         }
+        [TestMethod]
         public void RooterValueRange()
         {
             // Create an instance to test.
@@ -31,12 +32,14 @@ namespace MathTests
                 RooterOneValue(rooter, expected);
             }
         }
+        [TestMethod]
         private void RooterOneValue(Rooter rooter, double expectedResult)
         {
             double input = expectedResult * expectedResult;
             double actualResult = rooter.SquareRoot(input);
             Assert.AreEqual(expectedResult, actualResult, delta: expectedResult / 1000);
         }
+        [TestMethod]
         public void TestMethod1()
         {
             // Create an instance to test:

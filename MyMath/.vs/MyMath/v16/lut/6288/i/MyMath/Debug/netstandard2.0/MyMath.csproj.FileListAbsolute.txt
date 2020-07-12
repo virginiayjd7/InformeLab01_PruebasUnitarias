@@ -1,0 +1,7 @@
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MyMath\Debug\netstandard2.0\MyMath.deps.json
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MyMath\Debug\netstandard2.0\MyMath.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MyMath\Debug\netstandard2.0\MyMath.csprojAssemblyReference.cache
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MyMath\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MyMath\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MyMath\Debug\netstandard2.0\MyMath.csproj.CopyComplete
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MyMath\Debug\netstandard2.0\MyMath.dll

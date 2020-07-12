@@ -1,0 +1,13 @@
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MathTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MathTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MathTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MathTests\Debug\netcoreapp3.1\MathTests.deps.json
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MathTests\Debug\netcoreapp3.1\MathTests.runtimeconfig.json
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MathTests\Debug\netcoreapp3.1\MathTests.runtimeconfig.dev.json
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\b\MathTests\Debug\netcoreapp3.1\MathTests.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MathTests\Debug\netcoreapp3.1\MathTests.csprojAssemblyReference.cache
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MathTests\Debug\netcoreapp3.1\MathTests.AssemblyInfoInputs.cache
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MathTests\Debug\netcoreapp3.1\MathTests.AssemblyInfo.cs
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MathTests\Debug\netcoreapp3.1\MathTests.csproj.CopyComplete
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MathTests\Debug\netcoreapp3.1\MathTests.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab01_PruebasUnitarias\MyMath\.vs\MyMath\v16\lut\6288\i\MathTests\Debug\netcoreapp3.1\MathTests.genruntimeconfig.cache
